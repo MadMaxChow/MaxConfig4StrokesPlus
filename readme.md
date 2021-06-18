@@ -1,3 +1,4 @@
+# 接近完美的MAX鼠标手势方案及图解（StrokesPlus专用）
 
 通过鼠标手势可以有效提高日常电脑办公效率，此配置方案供大家参考，方案相应的配置文件在我的博文中的链接下载。
 
@@ -7,3 +8,5 @@
 
 [Sina Blog](http://blog.sina.com.cn/zhoumengzhao)
 QQ Group：18988755（Impression of Font）
+
+[StrokesPlus（官网）](http://www.strokesplus.com/downloads/)
